@@ -1,0 +1,7 @@
+C:\Users\arg10003\source\repos\CountColors\CountColors\bin\Debug\CountColors.exe.config
+C:\Users\arg10003\source\repos\CountColors\CountColors\bin\Debug\CountColors.exe
+C:\Users\arg10003\source\repos\CountColors\CountColors\bin\Debug\CountColors.pdb
+C:\Users\arg10003\source\repos\CountColors\CountColors\obj\Debug\CountColors.csprojAssemblyReference.cache
+C:\Users\arg10003\source\repos\CountColors\CountColors\obj\Debug\CountColors.csproj.CoreCompileInputs.cache
+C:\Users\arg10003\source\repos\CountColors\CountColors\obj\Debug\CountColors.exe
+C:\Users\arg10003\source\repos\CountColors\CountColors\obj\Debug\CountColors.pdb
